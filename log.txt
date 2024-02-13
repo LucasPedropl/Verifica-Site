@@ -1,0 +1,9 @@
+13/02/2024 10:11:17 - https://httpbin.org/status/200 - online: true
+13/02/2024 10:11:17 - https://httpbin.org/status/404 - online: false
+13/02/2024 10:11:18 - https://www.alura.com.br - online: true
+13/02/2024 10:11:23 - https://httpbin.org/status/200 - online: true
+13/02/2024 10:11:23 - https://httpbin.org/status/404 - online: false
+13/02/2024 10:11:23 - https://www.alura.com.br - online: true
+13/02/2024 10:11:28 - https://httpbin.org/status/200 - online: true
+13/02/2024 10:11:28 - https://httpbin.org/status/404 - online: false
+13/02/2024 10:11:28 - https://www.alura.com.br - online: true
